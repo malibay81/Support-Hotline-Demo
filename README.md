@@ -2,7 +2,7 @@
 
 Ein Blazor WebAssembly Projekt für Support-Hotline-Demo.
 
-Diese Website ist auf GitHub Pages gehostet: [https://malibay81.github.io/SupportHotlineDemo/](https://malibay81.github.io/SupportHotlineDemo/)
+Diese Website ist auf GitHub Pages gehostet: [https://malibay81.github.io/Support-Hotline-Demo/](https://malibay81.github.io/Support-Hotline-Demo/)
 
 ## Technologien
 
